@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841737183542",
+    "firebase_url": "https://social-aa156.firebaseio.com",
+    "project_id": "social-aa156",
+    "storage_bucket": "social-aa156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841737183542:android:94a3687ad058ec12bf1397",
+        "android_client_info": {
+          "package_name": "com.monk57.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841737183542-v7ebvp1hkntk01p31puvu0o9kv6g5n47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfhvCJB7J6-o58XXL4dJ-cdwfwb431YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841737183542-v7ebvp1hkntk01p31puvu0o9kv6g5n47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
