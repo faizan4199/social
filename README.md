@@ -1,6 +1,6 @@
 # social
 
-A new Flutter application.
+Messanging App with Flutter And Firebase. Under Maintainace.
 
 ## Getting Started
 
